@@ -10,4 +10,6 @@
 
 body{
     background-image: url(../img/background.png);
+    background-size: 100% auto !important;
+    background-attachment: fixed;
 }

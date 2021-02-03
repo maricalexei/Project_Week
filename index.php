@@ -13,6 +13,7 @@
     <title>CS:GO Wiki</title>
   </head>
   <body>
+      <!-- This is the Navbar -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <div class="container-fluid">
       <img src="./img/icons/csgoicon.png" id="csicon" alt="Icon">
@@ -64,7 +65,12 @@
       </ul>
     </div>
   </div>
-</nav>  
+</nav>
+<div class="container">
+
+</div>
+
+
 
     <!-- Optional JavaScript; choose one of the two! -->
 
