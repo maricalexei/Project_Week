@@ -66,20 +66,28 @@
     </div>
   </div>
 </nav>
-<div class="container-fluid">
-
-<div class="card" id="wikicard">
-  <div class="card-header">
-    Featured
-  </div>
+<div class="container">
+  <div class="row justify-content-md-center">
+    <div class="col-9" id="card1">
+    <div class="card text-white bg-dark mb-3">
+  <h5 class="card-header">Featured</h5>
   <div class="card-body">
     <h5 class="card-title">Special title treatment</h5>
-    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et eros sed enim gravida condimentum. Praesent et nunc purus. Curabitur dictum ullamcorper purus eget euismod. Mauris ex elit, convallis in ipsum sed, blandit blandit elit. Nam a dui mi. Integer vel turpis sed elit accumsan imperdiet. Nunc condimentum, nisi sit amet luctus laoreet, purus sem aliquam tellus, vitae congue dui nunc a lorem. In commodo ante vel leo varius mollis..</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
   </div>
 </div>
+    </div>
+    <div class="col-3" id="card1">
+    <div class="card text-white bg-dark mb-3">
+  <h5 class="card-header">Featured</h5>
+  <div class="card-body">
+    <h5 class="card-title">Special title treatment</h5>
+    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+  </div>
 </div>
-
+    </div>
+   </div>
+  </div>
 
 
     <!-- Optional JavaScript; choose one of the two! -->

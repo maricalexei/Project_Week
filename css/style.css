@@ -17,5 +17,12 @@ body{
 #wikicard{
     margin-right: 150px;
     margin-left: 150px;
-    margin: 50px;
+    margin-top: 50px;
+}
+
+#card1{
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-top: 20px;
+    color: white;
 }
