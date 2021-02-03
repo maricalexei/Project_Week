@@ -66,8 +66,18 @@
     </div>
   </div>
 </nav>
-<div class="container">
+<div class="container-fluid">
 
+<div class="card" id="wikicard">
+  <div class="card-header">
+    Featured
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">Special title treatment</h5>
+    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et eros sed enim gravida condimentum. Praesent et nunc purus. Curabitur dictum ullamcorper purus eget euismod. Mauris ex elit, convallis in ipsum sed, blandit blandit elit. Nam a dui mi. Integer vel turpis sed elit accumsan imperdiet. Nunc condimentum, nisi sit amet luctus laoreet, purus sem aliquam tellus, vitae congue dui nunc a lorem. In commodo ante vel leo varius mollis..</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
 </div>
 
 

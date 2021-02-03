@@ -13,3 +13,9 @@ body{
     background-size: 100% auto !important;
     background-attachment: fixed;
 }
+
+#wikicard{
+    margin-right: 150px;
+    margin-left: 150px;
+    margin: 50px;
+}
