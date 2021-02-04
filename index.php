@@ -52,10 +52,10 @@
           </a>
                     <!-- This is the dropdown for the Gamemodes -->
           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            <li><a class="dropdown-item" href="./Gamemodes/bom.php">Bom defuse</a></li>
-            <li><a class="dropdown-item" href="./Gamemodes/deathmatch.php">Hostage situation</a></li>
-            <li><a class="dropdown-item" href="./Gamemodes/hostage.php">Wingman</a></li>
-            <li><a class="dropdown-item" href="./Gamemodes/wingman.php">Deathmatch</a></li>
+            <li><a class="dropdown-item" href="./Gamemodes/bom.php">Bom Defuse</a></li>
+            <li><a class="dropdown-item" href="./Gamemodes/deathmatch.php">Deathmatch</a></li>
+            <li><a class="dropdown-item" href="./Gamemodes/hostage.php">Hostage Situation</a></li>
+            <li><a class="dropdown-item" href="./Gamemodes/wingman.php">Wingman</a></li>
           </ul>
           <li class="nav-item dropdown">
           <a class="nav-link active dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
