@@ -23,24 +23,25 @@
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Home</a>
+          <a class="nav-link active" aria-current="page" href="index.php">Home</a>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link active dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Weapons
           </a>
+          <!-- This is the dropdown for the weapons -->
           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
             <li><a class="dropdown-item" href="./Weapons/knifes.php">Knifes</a></li>
             <li><a class="dropdown-item" href="./Weapons/pistols.php">Pistols</a></li>
             <li><a class="dropdown-item" href="./Weapons/smgs.php">Submachine guns</a></li>
             <li><a class="dropdown-item" href="./Weapons/rifles.php">Rifles</a></li>
             <li><a class="dropdown-item" href="./Weapons/heavy.php">Heavy</a></li>
-            
           </ul>
           <li class="nav-item dropdown">
           <a class="nav-link active dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Equipment
           </a>
+                    <!-- This is the dropdown for the Equipment -->
           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
             <li><a class="dropdown-item" href="./Equipment/grenades.php">Grenades</a></li>
             <li><a class="dropdown-item" href="./Equipment/gear.php">Gear</a></li>
@@ -49,6 +50,7 @@
           <a class="nav-link active dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Gamemodes
           </a>
+                    <!-- This is the dropdown for the Gamemodes -->
           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
             <li><a class="dropdown-item" href="./Gamemodes/bom.php">Bom defuse</a></li>
             <li><a class="dropdown-item" href="./Gamemodes/deathmatch.php">Hostage situation</a></li>
@@ -59,6 +61,7 @@
           <a class="nav-link active dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Maps
           </a>
+                    <!-- This is the dropdown for the maps -->
           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
             <li><a class="dropdown-item" href="./Maps/dust.php">Dust-2</a></li>
             <li><a class="dropdown-item" href="./Maps/mirage.php">Mirage</a></li>
@@ -70,6 +73,7 @@
     </div>
   </div>
 </nav>
+<!-- this is the card for all the information -->
 <div class="container">
   <div class="row justify-content-md-center">
     <div class="col-9" id="card1">
@@ -81,6 +85,7 @@
   </div>
 </div>
     </div>
+    <!-- This is the card for the content -->
     <div class="col-3" id="card1">
     <div class="card text-white bg-dark mb-3">
   <h5 class="card-header">Featured</h5>
