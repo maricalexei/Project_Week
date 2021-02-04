@@ -42,28 +42,28 @@
             Equipment
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            <li><a class="dropdown-item" href="#">Grenades</a></li>
-            <li><a class="dropdown-item" href="#">Gear</a></li>
+            <li><a class="dropdown-item" href="./Equipment/grenades.php">Grenades</a></li>
+            <li><a class="dropdown-item" href="./Equipment/gear.php">Gear</a></li>
           </ul>
         <li class="nav-item dropdown">
           <a class="nav-link active dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Gamemodes
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            <li><a class="dropdown-item" href="#">Bom defuse</a></li>
-            <li><a class="dropdown-item" href="#">Hostage situation</a></li>
-            <li><a class="dropdown-item" href="#">Wingman</a></li>
-            <li><a class="dropdown-item" href="#">Deathmatch</a></li>
+            <li><a class="dropdown-item" href="./Gamemodes/bom.php">Bom defuse</a></li>
+            <li><a class="dropdown-item" href="./Gamemodes/deathmatch.php">Hostage situation</a></li>
+            <li><a class="dropdown-item" href="./Gamemodes/hostage.php">Wingman</a></li>
+            <li><a class="dropdown-item" href="./Gamemodes/wingman.php">Deathmatch</a></li>
           </ul>
           <li class="nav-item dropdown">
           <a class="nav-link active dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Maps
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            <li><a class="dropdown-item" href="#">Dust-2</a></li>
-            <li><a class="dropdown-item" href="#">Mirage</a></li>
-            <li><a class="dropdown-item" href="#">Inferno</a></li>
-            <li><a class="dropdown-item" href="#">Duke</a></li>
+            <li><a class="dropdown-item" href="./Maps/dust.php">Dust-2</a></li>
+            <li><a class="dropdown-item" href="./Maps/mirage.php">Mirage</a></li>
+            <li><a class="dropdown-item" href="./Maps/inferno.php">Inferno</a></li>
+            <li><a class="dropdown-item" href="./Maps/duke.php">Duke</a></li>
           </ul>
         </li>
       </ul>
