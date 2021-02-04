@@ -30,11 +30,11 @@
             Weapons
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            <li><a class="dropdown-item" href="#">Knifes</a></li>
-            <li><a class="dropdown-item" href="#">Pistols</a></li>
-            <li><a class="dropdown-item" href="#">Submachine guns</a></li>
-            <li><a class="dropdown-item" href="#">Rifles</a></li>
-            <li><a class="dropdown-item" href="#">Heavy</a></li>
+            <li><a class="dropdown-item" href="./Weapons/knifes.php">Knifes</a></li>
+            <li><a class="dropdown-item" href="./Weapons/pistols.php">Pistols</a></li>
+            <li><a class="dropdown-item" href="./Weapons/smgs.php">Submachine guns</a></li>
+            <li><a class="dropdown-item" href="./Weapons/rifles.php">Rifles</a></li>
+            <li><a class="dropdown-item" href="./Weapons/heavy.php">Heavy</a></li>
             
           </ul>
           <li class="nav-item dropdown">
