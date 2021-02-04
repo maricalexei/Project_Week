@@ -1,3 +1,4 @@
+<!-- This funtion is to be able to use strange characters -->
 <?php 
     function sanitize($raw_data) {
         global $conn;
