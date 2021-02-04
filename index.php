@@ -30,36 +30,40 @@
             Weapons
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            <li><a class="dropdown-item" href="#">Action</a></li>
-            <li><a class="dropdown-item" href="#">Another action</a></li>
-            <li><a class="dropdown-item" href="#">Something else here</a></li>
+            <li><a class="dropdown-item" href="#">Knifes</a></li>
+            <li><a class="dropdown-item" href="#">Pistols</a></li>
+            <li><a class="dropdown-item" href="#">Submachine guns</a></li>
+            <li><a class="dropdown-item" href="#">Rifles</a></li>
+            <li><a class="dropdown-item" href="#">Heavy</a></li>
+            
           </ul>
           <li class="nav-item dropdown">
           <a class="nav-link active dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Equipment
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            <li><a class="dropdown-item" href="#">Action</a></li>
-            <li><a class="dropdown-item" href="#">Another action</a></li>
-            <li><a class="dropdown-item" href="#">Something else here</a></li>
+            <li><a class="dropdown-item" href="#">Grenades</a></li>
+            <li><a class="dropdown-item" href="#">Gear</a></li>
           </ul>
         <li class="nav-item dropdown">
           <a class="nav-link active dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Gamemodes
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            <li><a class="dropdown-item" href="#">Action</a></li>
-            <li><a class="dropdown-item" href="#">Another action</a></li>
-            <li><a class="dropdown-item" href="#">Something else here</a></li>
+            <li><a class="dropdown-item" href="#">Bom defuse</a></li>
+            <li><a class="dropdown-item" href="#">Hostage situation</a></li>
+            <li><a class="dropdown-item" href="#">Wingman</a></li>
+            <li><a class="dropdown-item" href="#">Deathmatch</a></li>
           </ul>
           <li class="nav-item dropdown">
           <a class="nav-link active dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Maps
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            <li><a class="dropdown-item" href="#">Action</a></li>
-            <li><a class="dropdown-item" href="#">Another action</a></li>
-            <li><a class="dropdown-item" href="#">Something else here</a></li>
+            <li><a class="dropdown-item" href="#">Dust-2</a></li>
+            <li><a class="dropdown-item" href="#">Mirage</a></li>
+            <li><a class="dropdown-item" href="#">Inferno</a></li>
+            <li><a class="dropdown-item" href="#">Duke</a></li>
           </ul>
         </li>
       </ul>
