@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1:3306
--- Gegenereerd op: 05 feb 2021 om 13:06
+-- Gegenereerd op: 05 feb 2021 om 13:35
 -- Serverversie: 5.7.26
 -- PHP-versie: 7.2.18
 
@@ -40,8 +40,11 @@ CREATE TABLE IF NOT EXISTS `csgowiki` (
 --
 
 INSERT INTO `csgowiki` (`name`, `info`) VALUES
-('pistol', 'dit schiet kogels'),
-('geweer', 'dit schiet kogels');
+('pistols', 'kleine bang'),
+('knifes', 'steek'),
+('submachineguns', 'schiet snel bang bang'),
+('rifles', 'schiet raak'),
+('heavy', 'BOEM BANG PANG');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
