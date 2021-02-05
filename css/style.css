@@ -12,6 +12,7 @@ body{
     background-image: url(../img/background.png);
     background-size: 100% auto !important;
     background-attachment: fixed;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 /* 1 of the cards CSS script */
 #wikicard{
@@ -34,3 +35,4 @@ body{
 li.nav-item.dropdown:hover ul {
     display: block;
 }
+
