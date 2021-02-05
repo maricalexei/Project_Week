@@ -30,3 +30,7 @@ body{
 #navbar{
     color: papayawhip;
 }
+
+li.nav-item.dropdown:hover ul {
+    display: block;
+}

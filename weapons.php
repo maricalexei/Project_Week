@@ -1,9 +1,9 @@
 <?php 
-
+   require_once 'navbar.php';
   if(isset($_GET['name'])) {
     require_once 'connect_db.php';
     require_once 'functions.php';
-    require_once 'navbar.php';
+   
 
     $name = sanitize($_GET['name']);
 
