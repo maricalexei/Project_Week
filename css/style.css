@@ -3,19 +3,30 @@
     height: 100px;
     padding: 10px;
 }
-
+/* The CSS for the navbar text. */
 #navbarNavDropdown{
     font-size: x-large;
 }
-
+/* The background picture */
 body{
     background-image: url(../img/background.png);
     background-size: 100% auto !important;
     background-attachment: fixed;
 }
-
+/* 1 of the cards CSS script */
 #wikicard{
     margin-right: 150px;
     margin-left: 150px;
-    margin: 50px;
+    margin-top: 50px;
+}
+/* The right card of the wiki */
+#card1{
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-top: 20px;
+    color: white;
+}
+/* Does nothing */
+#navbar{
+    color: papayawhip;
 }
