@@ -1,10 +1,15 @@
 <?php 
+  //  Includes the navbar on all pages
    require_once 'navbar.php';
   if(isset($_GET['name'])) {
+    
+    // adds the connect_db.php for making connection with the database
     require_once 'connect_db.php';
+    
+    // adds the functions.php
     require_once 'functions.php';
    
-
+    // this cleans up the code for special charachters
     $name = sanitize($_GET['name']);
     //  $info = sanitize($_GET['info']);
 
@@ -19,9 +24,6 @@
     echo 'doei';
   }
 ?>
-
-<!-- <h1><?=$row['name']?></h1> -->
-<!-- <p><?=$row['info']?></p> -->
 
 
 <!doctype html>
