@@ -3,7 +3,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "csgowiki";
+$dbname = "wiki-info";
 
-$conn= mysqli_connect($name, $info)
+$conn= mysqli_connect($servername, $username, $password, $dbname)
 ?>
