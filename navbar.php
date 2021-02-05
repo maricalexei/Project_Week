@@ -37,11 +37,11 @@
             <li><a class="dropdown-item" href="./weapons.php?name=rifles">Rifles</a></li>
             <li><a class="dropdown-item" href="./weapons.php?name=heavy">Heavy</a></li>
           </ul>
-          <li class="nav-item dropdown">
+          <!-- <li class="nav-item dropdown">
           <a class="nav-link active dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Equipment
           </a>
-                    <!-- This is the dropdown for the Equipment -->
+                   
           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
             <li><a class="dropdown-item" href="./Equipment/grenades.php">Grenades</a></li>
             <li><a class="dropdown-item" href="./Equipment/gear.php">Gear</a></li>
@@ -50,7 +50,7 @@
           <a class="nav-link active dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Gamemodes
           </a>
-                    <!-- This is the dropdown for the Gamemodes -->
+                    
           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
             <li><a class="dropdown-item" href="./Gamemodes/bom.php">Bom Defuse</a></li>
             <li><a class="dropdown-item" href="./Gamemodes/deathmatch.php">Deathmatch</a></li>
@@ -61,13 +61,13 @@
           <a class="nav-link active dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Maps
           </a>
-                    <!-- This is the dropdown for the maps -->
+                   
           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
             <li><a class="dropdown-item" href="./Maps/dust.php">Dust-2</a></li>
             <li><a class="dropdown-item" href="./Maps/mirage.php">Mirage</a></li>
             <li><a class="dropdown-item" href="./Maps/inferno.php">Inferno</a></li>
             <li><a class="dropdown-item" href="./Maps/duke.php">Duke</a></li>
-          </ul>
+          </ul> -->
         </li>
       </ul>
     </div>
