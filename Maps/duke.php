@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="../css/style.css">
     <link rel="shortcut icon" href="../img/icons/favicon.ico" type="image/x-icon">
 
-    <title>CS:GO | Maps | Duke</title>
+    <title>CS:GO | Maps | Nuke</title>
   </head>
   <body>
       <!-- This is the Navbar -->
@@ -66,7 +66,7 @@
             <li><a class="dropdown-item" href="dust.php">Dust-2</a></li>
             <li><a class="dropdown-item" href="mirage.php">Mirage</a></li>
             <li><a class="dropdown-item" href="inferno.php">Inferno</a></li>
-            <li><a class="dropdown-item" href="duke.php">Duke</a></li>
+            <li><a class="dropdown-item" href="duke.php">Nuke</a></li>
           </ul>
         </li>
       </ul>

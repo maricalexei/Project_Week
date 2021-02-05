@@ -66,7 +66,7 @@
             <li><a class="dropdown-item" href="dust.php">Dust-2</a></li>
             <li><a class="dropdown-item" href="mirage.php">Mirage</a></li>
             <li><a class="dropdown-item" href="inferno.php">Inferno</a></li>
-            <li><a class="dropdown-item" href="duke.php">Duke</a></li>
+            <li><a class="dropdown-item" href="duke.php">Nuke</a></li>
           </ul>
         </li>
       </ul>

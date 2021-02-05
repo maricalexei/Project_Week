@@ -66,7 +66,7 @@
             <li><a class="dropdown-item" href="./Maps/dust.php">Dust-2</a></li>
             <li><a class="dropdown-item" href="./Maps/mirage.php">Mirage</a></li>
             <li><a class="dropdown-item" href="./Maps/inferno.php">Inferno</a></li>
-            <li><a class="dropdown-item" href="./Maps/duke.php">Duke</a></li>
+            <li><a class="dropdown-item" href="./Maps/duke.php">Nuke</a></li>
           </ul>
         </li>
       </ul>
